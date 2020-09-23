@@ -1,0 +1,4 @@
+links para imagem
+placekiten.com
+TAGS
+img - tag para imagem, ao muito comum mas boa para quando tem o link
