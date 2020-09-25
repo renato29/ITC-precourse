@@ -2,3 +2,16 @@ links para imagem
 placekiten.com
 TAGS
 img - tag para imagem, ao muito comum mas boa para quando tem o link
+free image resize crop software
+<strong> é para fazer uma letra em forte
+<cite> ou <em> tag para colocar letras em italico
+
+como adicionar comentarios no HTML devemos usar o <!-- ...anotação... -->
+
+ <footer> tag para o footer é o rodaé do site </footer>
+ <q> é uma tag para ser usada dentro de um paragrafo de uma citação </q>
+
+
+  CSS
+
+  comentarios no CSS usar /**/
