@@ -12,6 +12,13 @@ como adicionar comentarios no HTML devemos usar o <!-- ...anotação... -->
  <q> é uma tag para ser usada dentro de um paragrafo de uma citação </q>
 
 
-  CSS
+  CSS- Cascade Style Sheet
 
   comentarios no CSS usar /**/
+
+  primeira coisa que se deve fazer no CSS, definir a fonte 
+
+  site: codepen.io
+  
+  pseudoclasses
+  a:hover - a aparencia do link muda quado passa o mouse por cima do texto de link
