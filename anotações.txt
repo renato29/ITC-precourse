@@ -12,7 +12,7 @@ como adicionar comentarios no HTML devemos usar o <!-- ...anotação... -->
  <q> é uma tag para ser usada dentro de um paragrafo de uma citação </q>
 
 
-  CSS- Cascade Style Sheet
+  CSS- Cascade Style Sheet - https://frontendmasters.github.io/bootcamp/css
 
   comentarios no CSS usar /**/
 
@@ -22,3 +22,19 @@ como adicionar comentarios no HTML devemos usar o <!-- ...anotação... -->
   
   pseudoclasses
   a:hover - a aparencia do link muda quado passa o mouse por cima do texto de link
+
+  site para cores color.adobe.com
+  extensao para identificar cores colorzilla 
+  site para validar CSS - https://jigsaw.w3.org/css-validator/ - bom usar para encontrar erros no style
+  <div> - é uma divisão uma caixa generica, nao adiciona nenhum conteudo na pagina
+  <section> - tem o significado, é uma seção da pagina.
+
+  Medidas do CSS
+  rem - tamanho relativo a letra "m"
+  em - tamanha padrão de "m".
+  px - pixel normal.
+
+
+  site para conversao de medidas: www.pxtoem.com
+
+  TRouBLe- TOP RIGHT BOTTOM LEFT 
